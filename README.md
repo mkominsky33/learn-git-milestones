@@ -171,7 +171,7 @@ You've used most of these already through a GUI (e.g. `git status`, `git add`, `
 You should be able to ...
 
 1. In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom
-1. ✏️ In Atom, edit this README file and add your *third* favorite emoji to [completions](#completions).
+1. ✏️ In Atom, edit this README file and add your *third* favorite emoji to [🦑](#completions).
 1. ✏️ Create a new file `hello.txt`, add some text and save it.
 1. Display the Git panel (click the small Git button at the bottom right).
 
