@@ -272,7 +272,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 🦑
 2f | Link to `commit #4 from Atom` | [commit from vs code](https://github.com/mkominsky33/learn-git-milestones/commit/5d28275991d52884d94b1fa2e09a01a9a1755d22)
 3a | Link to `my-awesome-project` github.com repo page | [my awesome project](https://github.com/mkominsky33/my-awesome-project/commit/2c7cebd11122c1948976348ae08e67f489f489ff)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [project site](https://github.com/mkominsky33/my-awesome-project)
 ... | ... | Total: 0/12
 
 
