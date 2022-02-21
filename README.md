@@ -85,7 +85,7 @@ Create a Github account and make your first commit on Github.com
 Install your development environment
 
 1. Complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
-1. Install Git on your machine ([via](https://gist.github.com/derhuerst/1b15ff4652a867391f03))
+1. Install Git on your machine ([via](https://gist.github.com/derhuerst/1b15ff4652a867be391f03))
 
 **Windows**
 1. Install [Git for Windows](https://gitforwindows.org/) (includes [Git BASH](https://www.atlassian.com/git/tutorials/git-bash), its own version of the bash shell)
@@ -262,11 +262,11 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🦔
-1b | Link to `commit #1 from Github.com` |
-1c | Link to markdown tables docs |
-1d | What does `log` do? |
-2a | 2nd Favorite emoji |
-2b | Link to `commit #2 from Github Desktop` |
+1b | Link to `commit #1 from Github.com` | [commit 1](https://github.com/mkominsky33/learn-git-milestones/commit/91274006dbf1892a9cfe40c311d8e054c126f1be)
+1c | Link to markdown tables docs | [markdown tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+1d | What does `log` do? | Show commit logs
+2a | 2nd Favorite emoji | 🐙
+2b | Link to `commit #2 from Github Desktop` | 
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
