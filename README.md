@@ -268,7 +268,7 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 🐙
 2b | Link to `commit #2 from Github Desktop` | [commit #2](https://github.com/mkominsky33/learn-git-milestones/commit/57410acc31f21ab463d878366afd11528320bc3f)
 2c | Full path to your working directory | /Users/mileskominsky/Documents/GitHub/learn-git-milestones
-2d | Link to `commit #3 from CLI` |
+2d | Link to `commit #3 from CLI` | [commit #3](https://github.com/mkominsky33/learn-git-milestones/commit/fb408763c70cf3593196690adcfaf1a1958b0d10)
 2e | 3rd Favorite emoji | 🦑
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
